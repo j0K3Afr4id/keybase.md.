@@ -1,0 +1,66 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am j0k3afr4id on github.
+  * I am aminkhayam (https://keybase.io/aminkhayam) on keybase.
+  * I have a public key ASA8LfDLhQVteIBuHW7woKbk-8zmfC4_9LyHPqoL3VGuwgo
+
+To claim this, I am signing this object:
+
+json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01203c2df0cb85056d78806e1d6ef0a0a6e4fbcce67c2e3ff4bc873eaa0bdd51aec20a",
+      "host": "keybase.io",
+      "kid": "01203c2df0cb85056d78806e1d6ef0a0a6e4fbcce67c2e3ff4bc873eaa0bdd51aec20a",
+      "uid": "de1c7aa3e16904d10041e53247b2a919",
+      "username": "aminkhayam"
+    },
+    "merkle_root": {
+      "ctime": 1568208249,
+      "hash": "e27770d74cd7b5f419037ff11809f13349908866eaefd7f0aee15cbab61fe8054babe90b345e7c3ca755a4fedefa2ebd9de03f550adcd77979b53780537fd590",
+      "hash_meta": "1ac1ecf9e526b2b2202f3b24910dcf6f647ce49b9f37a890952dddd9b9efe6ac",
+      "seqno": 6713043
+    },
+    "service": {
+      "entropy": "XaPbnintYPRnWNxshEBJNnJY",
+      "name": "github",
+      "username": "j0k3afr4id"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568208297,
+  "expire_in": 504576000,
+  "prev": "7abfcf16752770d08c458aa0259bdff97ba669a71547a578e0ccde7d10bced4e",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+
+with the key [ASA8LfDLhQVteIBuHW7woKbk-8zmfC4_9LyHPqoL3VGuwgo](https://keybase.io/aminkhayam), yielding the signature:
+
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgPC3wy4UFbXiAbh1u8KCm5PvM5nwuP/S8hz6qC91RrsIKp3BheWxvYWTESpcCBMQger/PFnUncNCMRYqgJZvf+XumaacVR6V44MzefRC87U7EIKTPvNFw2R4fUMnLp8FL39EUXjCnK9eJ0EBK/8Zju063AgHCo3NpZ8RAJh+kB7LwiJtRael7vvwK3T5HToeTdi+LJZwERTDVwAPGY4rSZmX8gkY7+Q0RNFw6aV7vdHGIBEQvuHTnPHUnBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM8LoeHOqQ3l3oCQ7x88RgVPHQDGx4boKkyniG8L3MhIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/aminkhayam
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+bash
+# look me up
+keybase id aminkhayam
